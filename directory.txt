@@ -1,0 +1,33 @@
+prod-tarana/
+├── agents/
+│   └── assets/
+├── auths/
+│   ├── __pycache__/
+│   ├── backend/
+│   └── frontend/
+├── data/
+├── dmodels/
+├── pages/
+│   ├── __pycache__/
+│   ├── backend/
+│   ├── design/
+│   ├── frontend/
+│   ├── agent.py
+│   ├── booking.py
+│   ├── explore.py
+│   ├── homepage.py
+│   └── profile.py
+├── utils/
+│   ├── __pycache__/
+│   └── dbCon.py
+├── .env
+├── .python-version
+├── .sesskey
+├── main copy.py
+├── main.py
+├── middleware.py
+├── pyproject.toml
+├── README.md
+├── testAuth.py
+├── uv.lock
+└── .venv/
